@@ -25,7 +25,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DopThree">
+  <component name="RunManager" selected="Application.DopFour">
+    <configuration name="DopFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DopFour" />
+      <module name="1.6 Home Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DopOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DopOne" />
       <module name="1.6 Home Work" />
@@ -54,20 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three" />
-      <module name="1.6 Home Work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DopFour" />
         <item itemvalue="Application.DopThree" />
         <item itemvalue="Application.DopTwo" />
         <item itemvalue="Application.DopOne" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Three" />
       </list>
     </recent_temporary>
   </component>
